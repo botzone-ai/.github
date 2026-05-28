@@ -19,9 +19,10 @@ Sign up and grab an API key at [cost.botzone.ai](https://cost.botzone.ai).
 
 ## Other Botzone products
 
-Botzone also builds [Sage](https://sage.botzone.ai), voice AI for service
-businesses. Sage's runtime is closed-source today; only the Cost SDKs are
-published in this org.
+Botzone also builds [Sage](https://sage.botzone.ai) (voice AI for service
+businesses) and [Cole](https://cole.botzone.ai) (AI tech support). Their
+runtimes are closed-source today; only the Cost SDKs are published in
+this org.
 
 ## License
 
